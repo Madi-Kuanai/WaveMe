@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="train">Обучение</string>
+    <string name="add_letter">Добавить букву</string>
+    <string name="space">Пробел</string>
+    <string name="Space" >" "</string>
+    <string name="exit">Назад</string>
+    <string name="your_text_for_speaking">Текст для воспроизведения</string>
+    <string name="login">Вход</string>
+    <string name="please_sign_in_to_continue">Войдите чтобы продолжить</string>
+    <string name="sign_in">Войти</string>
+    <string name="forgot_password">Забыли пароль ?</string>
+    <string name="don_t_have_account">Нет учетной записи ?</string>
+    <string name="sign_up">Создать</string>
+    <string name="email">Email</string>
+    <string name="password">Пароль</string>
+    <string name="create_account">Создать аккаунт</string>
+    <string name="nickname">Имя</string>
+    <string name="already_have_a_account">Уже есть аккаунт ?</string>
+    <string name="fill_input_space_for_registration">Заполните поля для регистрации</string>
+    <string name="confirm_password">Подтвердите пароль</string>
+    <string name="email_error">Почта уже используется</string>
+</resources>

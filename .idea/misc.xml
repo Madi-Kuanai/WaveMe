@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/madi/Desktop/Res/sign_language/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.225" />
+        <entry key="..\:/Users/madi/Desktop/Res/sign_language/app/src/main/res/drawable/btn_exit.xml" value="0.2" />
+        <entry key="..\:/Users/madi/Desktop/Res/sign_language/app/src/main/res/drawable/create_model_main.xml" value="0.2964912280701754" />
+        <entry key="..\:/Users/madi/Desktop/Res/sign_language/app/src/main/res/drawable/create_model_main_round.xml" value="0.2964912280701754" />
+        <entry key="..\:/Users/madi/Desktop/Res/sign_language/app/src/main/res/drawable/create_model_round.xml" value="0.25" />
+        <entry key="..\:/Users/madi/Desktop/Res/sign_language/app/src/main/res/drawable/create_model_top_round.xml" value="0.3045045045045045" />
+        <entry key="..\:/Users/madi/Desktop/Res/sign_language/app/src/main/res/drawable/custom_edit.xml" value="0.2964912280701754" />
+        <entry key="..\:/Users/madi/Desktop/Res/sign_language/app/src/main/res/drawable/dialog_background.xml" value="0.2916307161345988" />
+        <entry key="..\:/Users/madi/Desktop/Res/sign_language/app/src/main/res/drawable/edit_custom.xml" value="0.23472222222222222" />
+        <entry key="..\:/Users/madi/Desktop/Res/sign_language/app/src/main/res/drawable/email_custom_drawable.xml" value="0.28055555555555556" />
+        <entry key="..\:/Users/madi/Desktop/Res/sign_language/app/src/main/res/drawable/flip_camera_background.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/madi/Desktop/Res/sign_language/app/src/main/res/drawable/flip_camera_foreground.xml" value="0.32747747747747746" />
+        <entry key="..\:/Users/madi/Desktop/Res/sign_language/app/src/main/res/drawable/frame_camera_round.xml" value="0.23472222222222222" />
+        <entry key="..\:/Users/madi/Desktop/Res/sign_language/app/src/main/res/drawable/gradients.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/madi/Desktop/Res/sign_language/app/src/main/res/drawable/horizontal_line_foreground.xml" value="0.283984375" />
+        <entry key="..\:/Users/madi/Desktop/Res/sign_language/app/src/main/res/drawable/ic_email.xml" value="0.2964912280701754" />
+        <entry key="..\:/Users/madi/Desktop/Res/sign_language/app/src/main/res/drawable/ic_email_focused.xml" value="0.28055555555555556" />
+        <entry key="..\:/Users/madi/Desktop/Res/sign_language/app/src/main/res/drawable/ic_email_on_focused.xml" value="0.28055555555555556" />
+        <entry key="..\:/Users/madi/Desktop/Res/sign_language/app/src/main/res/drawable/ic_frame_1.xml" value="0.2640625" />
+        <entry key="..\:/Users/madi/Desktop/Res/sign_language/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2" />
+        <entry key="..\:/Users/madi/Desktop/Res/sign_language/app/src/main/res/drawable/ic_password.xml" value="0.2964912280701754" />
+        <entry key="..\:/Users/madi/Desktop/Res/sign_language/app/src/main/res/drawable/ic_password_focused.xml" value="0.28055555555555556" />
+        <entry key="..\:/Users/madi/Desktop/Res/sign_language/app/src/main/res/drawable/ic_password_on_focused.xml" value="0.28055555555555556" />
+        <entry key="..\:/Users/madi/Desktop/Res/sign_language/app/src/main/res/drawable/ic_splash.xml" value="0.23472222222222222" />
+        <entry key="..\:/Users/madi/Desktop/Res/sign_language/app/src/main/res/drawable/open_enough_background.xml" value="0.283984375" />
+        <entry key="..\:/Users/madi/Desktop/Res/sign_language/app/src/main/res/drawable/open_enough_foreground.xml" value="0.283984375" />
+        <entry key="..\:/Users/madi/Desktop/Res/sign_language/app/src/main/res/drawable/password_custom_drawable.xml" value="0.28055555555555556" />
+        <entry key="..\:/Users/madi/Desktop/Res/sign_language/app/src/main/res/drawable/rounded.xml" value="0.3365740740740741" />
+        <entry key="..\:/Users/madi/Desktop/Res/sign_language/app/src/main/res/drawable/sign_btn_mode.xml" value="0.2964912280701754" />
+        <entry key="..\:/Users/madi/Desktop/Res/sign_language/app/src/main/res/drawable/thumb.xml" value="0.318859649122807" />
+        <entry key="..\:/Users/madi/Desktop/Res/sign_language/app/src/main/res/layout-sw320dp/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/madi/Desktop/Res/sign_language/app/src/main/res/layout-sw320dp/activity_voice_recognition.xml" value="0.22" />
+        <entry key="..\:/Users/madi/Desktop/Res/sign_language/app/src/main/res/layout-sw480dp/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/madi/Desktop/Res/sign_language/app/src/main/res/layout-sw480dp/activity_voice_recognition.xml" value="0.67" />
+        <entry key="..\:/Users/madi/Desktop/Res/sign_language/app/src/main/res/layout-sw600dp/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/madi/Desktop/Res/sign_language/app/src/main/res/layout-sw600dp/activity_voice_recognition.xml" value="0.22" />
+        <entry key="..\:/Users/madi/Desktop/Res/sign_language/app/src/main/res/layout-sw720dp/activity_main.xml" value="0.18" />
+        <entry key="..\:/Users/madi/Desktop/Res/sign_language/app/src/main/res/layout-sw720dp/activity_voice_recognition.xml" value="0.248828125" />
+        <entry key="..\:/Users/madi/Desktop/Res/sign_language/app/src/main/res/layout-v23/activity_sign_in.xml" value="0.33177083333333335" />
+        <entry key="..\:/Users/madi/Desktop/Res/sign_language/app/src/main/res/layout/activity_camera.xml" value="0.1" />
+        <entry key="..\:/Users/madi/Desktop/Res/sign_language/app/src/main/res/layout/activity_create_model.xml" value="0.22" />
+        <entry key="..\:/Users/madi/Desktop/Res/sign_language/app/src/main/res/layout/activity_main.xml" value="0.75" />
+        <entry key="..\:/Users/madi/Desktop/Res/sign_language/app/src/main/res/layout/activity_sign_in.xml" value="0.25" />
+        <entry key="..\:/Users/madi/Desktop/Res/sign_language/app/src/main/res/layout/activity_sign_up.xml" value="0.2793859649122807" />
+        <entry key="..\:/Users/madi/Desktop/Res/sign_language/app/src/main/res/layout/activity_splash.xml" value="0.2" />
+        <entry key="..\:/Users/madi/Desktop/Res/sign_language/app/src/main/res/layout/activity_text_to_speech.xml" value="0.248828125" />
+        <entry key="..\:/Users/madi/Desktop/Res/sign_language/app/src/main/res/layout/activity_voice_recognition.xml" value="0.22" />
+        <entry key="..\:/Users/madi/Desktop/Res/sign_language/app/src/main/res/layout/fragment_main_layout.xml" value="0.22118055555555555" />
+        <entry key="..\:/Users/madi/Desktop/Res/sign_language/app/src/main/res/layout/item.xml" value="0.271875" />
+        <entry key="..\:/Users/madi/Desktop/Res/sign_language/app/src/main/res/layout/wait_dialog.xml" value="0.27480586712683347" />
+        <entry key="..\:/Users/madi/Desktop/Res/sign_language/app/src/main/res/mipmap-anydpi-v26/flip_camera.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/madi/Desktop/Res/sign_language/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Users/madi/Desktop/Res/sign_language/app/src/main/res/mipmap-anydpi-v26/open_enough.xml" value="0.283984375" />
+        <entry key="..\:/Users/madi/Desktop/Res/sign_language/app/src/main/res/mipmap-anydpi-v26/open_enough_round.xml" value="0.283984375" />
+        <entry key="..\:/Users/madi/Desktop/Res/sign_language/app/src/main/res/xml/gradient.xml" value="0.3625" />
+        <entry key="..\:/Users/madi/Desktop/res/sign_language/app/src/main/res/layout/activity_splash.xml" value="0.16" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

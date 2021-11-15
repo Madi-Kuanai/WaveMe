@@ -1,0 +1,38 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="AppTheme" parent="Theme.AppCompat.DayNight.NoActionBar">
+
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="start_color">#6a11cb</item>
+        <item name="center_color">#0F0447</item>
+        <item name="end_color">#030916</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="swipe_color">#FF04102B</item>
+        <item name="tC">#ffffff</item>
+        <item name="checked_status">false</item>
+        <item name="line_color">#FFF</item>
+        <item name="items_color">#11004E</item>
+        <item name="layout_color">#262350</item>
+        <item name="create_model_top_color">#000119</item>
+        <item name="create_model_main_color">#333251</item>
+        <item name="lottie_color">#fff</item>
+        <item name="btnBack_color">#fff</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="v_to_t_drawable">@drawable/speech_white</item>
+
+    </style>
+
+    <style name="AppFullScreenTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+
+</resources>

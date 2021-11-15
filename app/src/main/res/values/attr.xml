@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="dt">
+        <attr name="start_color" format="color" />
+        <attr name="center_color" format="color" />
+        <attr name="end_color" format="color" />
+        <attr name="tC" format="color" />
+        <attr name="swipe_color" format="color"/>
+        <attr name="checked_status" format="boolean"/>
+        <attr name="line_color" format="color"/>
+        <attr name="items_color" format="color"/>
+        <attr name="layout_color" format="color"/>
+        <attr name="create_model_top_color" format="color"/>
+        <attr name="create_model_main_color" format="color"/>
+        <attr name="progress" format="integer"/>
+        <attr name="exit_color" format="color"/>
+        <attr name="btnBack_color" format="color"/>
+        <attr name="lottie_color" format="color"/>
+        <attr name="v_to_t_drawable" format="reference"/>
+    </declare-styleable>
+</resources>

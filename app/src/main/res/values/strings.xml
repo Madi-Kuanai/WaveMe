@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name" translatable="false">WaveMe</string>
+
+    <string name="train">Train</string>
+    <string name="add_letter">Add Letter</string>
+    <string name="space">Space</string>
+    <string name="Space" translatable="false">"  "</string>
+    <string name="exit">Back</string>
+    <string name="your_text_for_speaking">Your text for speaking</string>
+    <string name="login">Login</string>
+    <string name="please_sign_in_to_continue">Please, sign in to continue</string>
+    <string name="sign_in">Sign In</string>
+    <string name="forgot_password">Forgot password ?</string>
+    <string name="don_t_have_account">Don\'t have a account ?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="create_account">Create Account</string>
+    <string name="nickname">Name</string>
+    <string name="already_have_a_account">Already have a account?</string>
+    <string name="fill_input_space_for_registration">Fill input space for registration</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="email_error">Email already exists</string>
+</resources>

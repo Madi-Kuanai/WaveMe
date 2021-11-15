@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "23133608412",
+    "firebase_url": "https://waveme-3828c-default-rtdb.firebaseio.com",
+    "project_id": "waveme-3828c",
+    "storage_bucket": "waveme-3828c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23133608412:android:4ad81fea5ad5c629d2d719",
+        "android_client_info": {
+          "package_name": "com.example.wave_me"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23133608412-hsgbsemiil3tfpf1vc8p94c5l0mcb0p1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMQuYkP0-keeuUI-omVSkVuwfLYBAPcYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "23133608412-hsgbsemiil3tfpf1vc8p94c5l0mcb0p1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23133608412:android:c4ef4a847a0250add2d719",
+        "android_client_info": {
+          "package_name": "com.mzmm.wave_me"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23133608412-kllcegm6hgdr81ltj03l28v8eqj2k6c2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mzmm.wave_me",
+            "certificate_hash": "b9959404fe6888caa96cf3c5e5ec9949fb26d86c"
+          }
+        },
+        {
+          "client_id": "23133608412-hsgbsemiil3tfpf1vc8p94c5l0mcb0p1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMQuYkP0-keeuUI-omVSkVuwfLYBAPcYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "23133608412-hsgbsemiil3tfpf1vc8p94c5l0mcb0p1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
